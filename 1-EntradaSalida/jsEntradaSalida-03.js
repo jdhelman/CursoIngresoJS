@@ -7,7 +7,7 @@ function mostrar()
 {
 	//let nombre = txtIdNombre.value; //No es el estándar de Javascript
 
-	let nombre
+	let nombre;
 
 	nombre = document.getElementById("txtIdNombre").value; //Este es el estándar de Javascript
 

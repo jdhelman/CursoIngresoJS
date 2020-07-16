@@ -13,17 +13,17 @@ function sumar()
 	//x=parseInt(x); //En este caso pasamos de string a número
 
 
-	let num1
-	let num2
-	let resultado
+	let num1;
+	let num2;
+	let resultado;
 
 	num1=document.getElementById("txtIdNumeroUno").value;
 	num2=document.getElementById("txtIdNumeroDos").value;
 
-	num1=parseInt(num1)
-	num2=parseInt(num2)
+	num1=parseInt(num1);
+	num2=parseInt(num2);
 
-	resultado=(num1+num2)
+	resultado=(num1+num2);
 
 	alert("El resultado es "+ resultado);
 
