@@ -10,9 +10,7 @@ function mostrar()
 
 			alert("Es adolescente");
 		}
-		else{
-			alert("No es adolescente");
-		}
+	
 
 
 

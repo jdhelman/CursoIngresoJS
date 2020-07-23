@@ -9,8 +9,14 @@ function mostrar()
 
 			alert("No adolescente");
 		}
-		else{
-			
+		
+		/*La otra versión
+
+		iif (!(edad >= 13 && edad <= 17)){
+
+			alert("No adolescente");
 		}
 
-}//FIN DE LA FUNCIÓN
+		*/
+
+}
