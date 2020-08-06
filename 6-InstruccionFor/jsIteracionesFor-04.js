@@ -1,6 +1,16 @@
 function mostrar()
 {
-	alert("ok");
+	
+   for (i = 0 ; i < 20 ; i++) {
+
+          if (i == 10 ){
+			break;
+		}
+
+       alert (i);
+	}
+		
+
 
 
 
